@@ -22,7 +22,7 @@ This project is a web application developed using **React Vite** and styled with
 - Highlights color and size button when selected
 - Dynamically updates the amount if same color and size chosen
 - Shows total amount and quantity in cart popup
-- Shows a popup is size and color is not selected and add to cart button is pressed
+- Shows a popup if size and color is not selected and add to cart button is pressed
 - Shows "Your cart is empty" when no item is added it cart and checkout is pressed
 
 ---
