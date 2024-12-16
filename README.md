@@ -43,7 +43,7 @@ To run this project locally:
 4. Run in terminal:
    ```bash
    npm run dev
-### Project should run in **http://localhost:5173**
+### Project should run in **http://localhost:3000**
 
 
 
