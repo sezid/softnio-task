@@ -1,7 +1,7 @@
 # Modern Smart Watch Product Ecommerce Page
 
 ## Live Page:
-[Live Project](#)  https://task-softnio.netlify.app
+https://task-softnio.netlify.app
 
 ## Overview
 
