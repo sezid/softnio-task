@@ -34,4 +34,16 @@ To run this project locally:
 1. Clone the repository:
    ```bash
    git clone https://github.com/sezid/softnio-task
+2. Navigate to:
+   ```bash
+   cd softnio-task
+3. Run in terminal:
+   ```bash
+   npm install
+4. Run in terminal:
+   ```bash
+   npm run dev
+### Project should run in **http://localhost:5173**
+
+
 
